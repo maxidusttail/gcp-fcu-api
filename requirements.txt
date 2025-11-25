@@ -5,6 +5,10 @@ gunicorn  # required for production server (Render)
 Flask
 requests
 beautifulsoup4
+gunicorn  # required for production server (Render)
+Flask
+requests
+beautifulsoup4
 gunicorn  # 必需：Render 用於生產環境的 Web 服務器
 Flask
 requests
